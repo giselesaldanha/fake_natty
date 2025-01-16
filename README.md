@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Imagem_fake_natty.jpeg"
+    src="./output/Imagem_fake_natty.jpeg"
     width="300"  
 />
 </p>
