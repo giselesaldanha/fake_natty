@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Imagem_ebook.jpeg"
+    src="./assets/Imagem_fake_natty.jpeg"
     width="300"  
 />
 </p>
@@ -29,3 +29,11 @@ O prompt utilizado está disponível no diretório `src` desse repositório.
 ## 📚 Materiais
 
 - Imagem criada em `output`
+
+## 🛠️ Instruções de execução
+
+Utilize o prompt na ferramenta de imagem desejada.
+
+## ✨ Agradecimento
+Agradeço a CAIXA e a DIO pela oportunidade de realizar esse bootcamp e ao "Felipão" (Felipe Aguiar) por todo o conhecimento compartilhado.
+
